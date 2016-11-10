@@ -21,8 +21,13 @@ public class ExCOD1Av {
         
         //Escribimos un programa
         for (int i=10;i>0;i--){
+            if (i>1){
             System.out.println("Quedan "+i+" ciclos");
             }
+            else{
+                System.out.println("Queda "+i+" ciclo");
+            }
+        }
         System.out.println("Programa finalizado");
     }
     
