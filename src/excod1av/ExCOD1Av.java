@@ -20,6 +20,7 @@ public class ExCOD1Av {
         // Clonamos el repositorio
         
         //Escribimos un programa
+        System.out.println("Empieza el programa:");
         for (int i=10;i>0;i--){
             System.out.println("Quedan "+i+" ciclos");
             }
