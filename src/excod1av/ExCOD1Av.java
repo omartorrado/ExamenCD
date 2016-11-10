@@ -28,7 +28,7 @@ public class ExCOD1Av {
             }
             else{
                 System.out.println("Queda "+i+" ciclo");
-                System.out.println("Empieza el ultimo ciclo");
+                System.out.println("Empieza el último ciclo");
             }
             
         }
