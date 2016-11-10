@@ -5,6 +5,8 @@
  */
 package excod1av;
 
+import static java.lang.Thread.sleep;
+
 /**
  *
  * @author damian
@@ -16,6 +18,12 @@ public class ExCOD1Av {
      */
     public static void main(String[] args) {
         // Clonamos el repositorio
+        
+        //Escribimos un programa
+        for (int i=10;i>0;i--){
+            System.out.println("Quedan "+i+" ciclos");
+            }
+        System.out.println("Programa finalizado");
     }
     
 }
